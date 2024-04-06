@@ -1,10 +1,16 @@
-# modern day osint 
+# modern days osint 
 
-`useful websites`
+## useful websites 
 
-https://doxbin.com/
+https://doxbin.com/ - _doxxing pastes on users_
 
-https://osintframework.com/
+https://osintframework.com/ - _useful tools_
+
+https://intelx.io/ - _breached password_
+
+https://www.dehashed.com - _same as intelx_
+
+https://leakcheck.io/ - _also breached passwords_
 #
 `telegram bots`
 
@@ -17,3 +23,5 @@ telesint - https://t.me/telesint_bot
 overload - https://t.me/OverloadCyberBot
 
 telegram analyst - https://t.me/TgAnalyst_bot
+
+gta search - https://t.me/GTA_search2Bot
