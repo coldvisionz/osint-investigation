@@ -1,17 +1,32 @@
-# modern days osint 
+# Modern day OSINT 
 
-## useful websites 
+## Toolkits
 
-https://doxbin.com/ - _doxxing pastes on users_
+https://intelx.io/tools
 
-https://osintframework.com/ - _useful tools_
+https://www.osintessentials.com/
 
-https://intelx.io/ - _breached password_
+https://infosecurity.by/osint-tools
 
-https://www.dehashed.com - _same as intelx_
+https://doxbin.com/  _doxxing pastes on users_
 
-https://leakcheck.io/ - _also breached passwords_
+https://osintframework.com/
 
+### Passwords 
+
+https://intelx.io/ 
+
+https://www.dehashed.com
+
+https://leakcheck.io/ 
+
+### Google Dorks
+
+https://sankalppatil12112001.medium.com/google-hacking-google-dorks-for-sensitive-information-f1d5a8eedb32
+
+
+
+### Misc
 https://vk.watch - _vk profile history_
 
 https://web.archive.org/   _¯\\_(ツ)_/¯_
@@ -19,10 +34,17 @@ https://web.archive.org/   _¯\\_(ツ)_/¯_
 https://geospy.web.app/ - _location from a picture_
 
 https://findclone.ru/ - _searching by face picture_
-#
-## telegram bots
 
-eye of god - https://t.me/o1nft09_abot
+https://search4faces.com - _same as findclone.ru_
+
+https://whatsmyname.app/ - _searching thru google with a username_
+
+https://webresolver.nl/ - _Skype OSINT_
+
+https://github.com/th3unkn0n/osi.ig - _instagram monitoring_
+
+### Telegram 
+eye of god  - https://t.me/o1nft09_abot
 
 maigret - https://t.me/osint_maigret_bot
 
@@ -34,8 +56,12 @@ telegram analyst - https://t.me/TgAnalyst_bot
 
 gta search - https://t.me/GTA_search2Bot
 
+search for groups - https://t.me/tgscanrobot
+
 password search - https://t.me/PasswordSearchBot
 
 universal search - https://t.me/UniversalSearchXBot (free version of [@HowToFindRU_Robot](https://t.me/HowToFindRU_Robot))
 
 leak osint - https://t.me/NewLeakOSINTbot
+
+анонимов.нет - https://t.me/anonimov_bot
