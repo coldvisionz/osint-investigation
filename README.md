@@ -1,6 +1,11 @@
 # Modern day OSINT 
 
+![torojw0u5ma51](https://github.com/kfvksys/0s1nt/assets/73615575/c1ab28ed-168d-46c3-857d-a09f723c8460)
+![i8pd0zzakst91](https://github.com/kfvksys/0s1nt/assets/73615575/34a16fe5-6868-4f94-a17b-1c4e9087a88b)
+
 ## Toolkits
+
+https://inteltechniques.com/tools/index.html
 
 https://intelx.io/tools
 
@@ -24,8 +29,6 @@ https://leakcheck.io/
 
 https://sankalppatil12112001.medium.com/google-hacking-google-dorks-for-sensitive-information-f1d5a8eedb32
 
-
-
 ### Misc
 https://vk.watch - _vk profile history_
 
@@ -42,6 +45,8 @@ https://whatsmyname.app/ - _searching thru google with a username_
 https://webresolver.nl/ - _Skype OSINT_
 
 https://github.com/th3unkn0n/osi.ig - _instagram monitoring_
+
+![i8pd0zzakst91](https://github.com/kfvksys/0s1nt/assets/73615575/34a16fe5-6868-4f94-a17b-1c4e9087a88b)
 
 ### Telegram 
 eye of god  - https://t.me/o1nft09_abot
@@ -67,3 +72,6 @@ leak osint - https://t.me/NewLeakOSINTbot
 анонимов.нет - https://t.me/anonimov_bot
 
 usersbox - https://t.me/US2UserBox_bot_Bot / https://link.usersbox.net/
+
+
+
