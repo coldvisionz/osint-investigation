@@ -48,6 +48,10 @@ https://github.com/th3unkn0n/osi.ig - _instagram monitoring_
 
 https://bigdata-ir.com/wp-content/uploads/2021/02/Open_Source_Intelligence_Techniques-Lite.pdf
 
+https://github.com/AzizKpln/Moriarty-Project
+
+https://github.com/mxrch/ghunt
+
 
 ### Telegram 
 eye of god  - https://t.me/o1nft09_abot
