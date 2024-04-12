@@ -5,7 +5,7 @@
 
 # **Modern days OSINT**
 
-a small repository of many tools/tools/services, etc. to catch bad guys that i am using myself reqularly 
+a small repository of super useful many tools/services to catch bad guys that i am using myself reqularly 
 
 many of these have been taken from other sources
 
