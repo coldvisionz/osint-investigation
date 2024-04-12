@@ -1,80 +1,102 @@
-# Modern day OSINT 
 
-![torojw0u5ma51](https://github.com/kfvksys/0s1nt/assets/73615575/c1ab28ed-168d-46c3-857d-a09f723c8460)
-![i8pd0zzakst91](https://github.com/kfvksys/0s1nt/assets/73615575/34a16fe5-6868-4f94-a17b-1c4e9087a88b)
+![Logo](https://i.pinimg.com/originals/49/f5/38/49f53844e74228707adf8c572b1d3091.gif)
+
+
+
+# **Modern days OSINT**
+
+a small repository of many tools/tools/services, etc. to catch bad guys that i am using myself reqularly 
+
+many of these have been taken from other sources
+
 
 ## Toolkits
 
-https://inteltechniques.com/tools/index.html
+https://inteltechniques.com/tools/index.html - some tools of Michael Bazzell on his website 
 
-https://intelx.io/tools
+https://intelx.io/tools - intelx osint tools 
 
-https://www.osintessentials.com/
+https://www.osintessentials.com/ - some of osint investigation tools 
 
-https://infosecurity.by/osint-tools
+https://infosecurity.by/osint-tools - same as above
 
-https://doxbin.com/  _doxxing pastes on users_
+https://doxbin.com/ - doxxing pastes on ppl
 
-https://osintframework.com/
+https://osintframework.com/ - osint framework tree
 
-### Passwords 
+## Data Breaches
 
-https://intelx.io/ 
+https://intelx.io/ - search across ip/email/domain/bitcoin address and etc.
 
-https://www.dehashed.com
+https://www.dehashed.com - almost the same as intelx
 
-https://leakcheck.io/ 
+https://leakcheck.io/ - email / username pass breaches check
 
-### Google Dorks
+## Google Dorks / Google Osint 
 
-https://sankalppatil12112001.medium.com/google-hacking-google-dorks-for-sensitive-information-f1d5a8eedb32
+https://github.com/mxrch/ghunt - google osint . collecting data 
 
-### Misc
-https://vk.watch - _vk profile history_
+https://sankalppatil12112001.medium.com/google-hacking-google-dorks-for-sensitive-information-f1d5a8eedb32 - Google Hacking: Google Dorks for Sensitive Information
 
-https://web.archive.org/   _¯\\_(ツ)_/¯_
+https://habr.com/ru/companies/postuf/articles/510766/ - Google Dorking Usage 
 
-https://geospy.web.app/ - _location from a picture_
+## Social Media 
 
-https://findclone.ru/ - _searching by face picture_
+https://vk.watch - vk profile history
 
-https://search4faces.com - _same as findclone.ru_
+https://findclone.ru/ searching by face on social media(vk as i remember)
 
-https://whatsmyname.app/ - _searching thru google with a username_
+https://search4faces.com - search user's profile picture on social media 
 
-https://webresolver.nl/ - _Skype OSINT_
+https://github.com/th3unkn0n/osi.ig - instagram monitoring
 
-https://github.com/th3unkn0n/osi.ig - _instagram monitoring_
+https://webresolver.nl/ - skype osint
 
-https://bigdata-ir.com/wp-content/uploads/2021/02/Open_Source_Intelligence_Techniques-Lite.pdf
+## Misc
 
-https://github.com/AzizKpln/Moriarty-Project
+https://web.archive.org/   ¯\_(ツ)_/¯
 
-https://github.com/mxrch/ghunt
+https://geospy.web.app/ - get location from the picture
+
+https://findclone.ru/ - searching by face on social media(vk as i remember)
+
+https://search4faces.com - search user's profile picture on social media 
+
+https://whatsmyname.app/ - searching thru everything with a username
+
+[Search Engines Mini-Cheatsheet](https://github.com/kfvksys/0s1nt/assets/73615575/c1ab28ed-168d-46c3-857d-a09f723c8460)
+
+[EVERY Car Plate on the map](https://github.com/kfvksys/0s1nt/assets/73615575/34a16fe5-6868-4f94-a17b-1c4e9087a88b)
+
+## Books
+
+[https://pixeldrain.com/u/ZcjUbXHQ](https://www.amazon.com/OSINT-Techniques-Resources-Uncovering-Information/dp/B0BRDR9P4Q) <sup>([pdf](https://pixeldrain.com/u/ZcjUbXHQ))</sup> - Osint Technique by Michael Bazzell
 
 
-### Telegram 
-eye of god  - https://t.me/o1nft09_abot
+## Telegram 
+https://t.me/o1nft09_abot - Eye of God 
 
-maigret - https://t.me/osint_maigret_bot
+https://t.me/osint_maigret_bot - Maigret
 
-telesint - https://t.me/telesint_bot
+https://t.me/telesint_bot - Telesint
 
-overload - https://t.me/OverloadCyberBot
+https://t.me/OverloadCyberBot - Overload
 
-telegram analyst - https://t.me/TgAnalyst_bot
+https://t.me/TgAnalyst_bot - Telegram Analyst
 
-gta search - https://t.me/GTA_search2Bot
+https://t.me/GTA_search2Bot - Gta Search
 
-search for groups - https://t.me/tgscanrobot
+https://t.me/tgscanrobot - Search for user's groups 
 
-password search - https://t.me/PasswordSearchBot
+https://t.me/PasswordSearchBot - Password Search
 
-universal search - https://t.me/UniversalSearchXBot (free version of [@HowToFindRU_Robot](https://t.me/HowToFindRU_Robot))
+https://t.me/UniversalSearchXBot - Universal Search (free version of [@HowToFindRU_Robot](https://t.me/HowToFindRU_Robot))
 
-leak osint - https://t.me/NewLeakOSINTbot
+https://t.me/NewLeakOSINTbot - Leak Osint (useful asfuck)
 
-usersbox - https://t.me/US2UserBox_bot_Bot / https://link.usersbox.net/
+https://t.me/US2UserBox_bot_Bot / https://link.usersbox.net/ - User's Box 
+
+
 
 
 
