@@ -75,8 +75,7 @@ https://whatsmyname.app/ - searching thru everything with a username
 [EVERY Car Plate on the map](https://github.com/kfvksys/0s1nt/assets/73615575/34a16fe5-6868-4f94-a17b-1c4e9087a88b)
 
 ## Books
-
-[https://pixeldrain.com/u/ZcjUbXHQ](https://www.amazon.com/OSINT-Techniques-Resources-Uncovering-Information/dp/B0BRDR9P4Q) <sup>([pdf](https://pixeldrain.com/u/ZcjUbXHQ))</sup> - Osint Technique by Michael Bazzell
+https://www.amazon.com/OSINT-Techniques-Resources-Uncovering-Information/dp/B0BRDR9P4Q <sup>([pdf](https://pixeldrain.com/u/ZcjUbXHQ))</sup> - Osint Technique by Michael Bazzell
 
 
 ## Telegram 
