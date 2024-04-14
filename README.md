@@ -24,6 +24,8 @@ https://doxbin.com/ - doxxing pastes on ppl
 
 https://osintframework.com/ - osint framework tree
 
+https://inventory.raw.pm/tools.html#title-tools-osint-and-reconnaissance - OSINT and Reconnaissance
+
 ## Data Breaches
 
 https://intelx.io/ - search across ip/email/domain/bitcoin address and etc.
