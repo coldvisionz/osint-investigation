@@ -81,7 +81,7 @@ https://www.amazon.com/OSINT-Techniques-Resources-Uncovering-Information/dp/B0BR
 
 
 ## Telegram 
-https://t.me/o1nft09_abot - Eye of God 
+https://t.me/fvcksystem_bot - Eye of God 
 
 https://t.me/osint_maigret_bot - Maigret
 
