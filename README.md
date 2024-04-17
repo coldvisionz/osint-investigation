@@ -34,9 +34,11 @@ https://www.dehashed.com - almost the same as intelx
 
 https://leakcheck.io/ - email / username pass breaches check
 
-## Google Dorks / Google Osint 
+## Google OSINT 
 
-https://github.com/mxrch/ghunt - google osint / collecting data 
+https://github.com/mxrch/ghunt - google osint / collecting data about account 
+
+https://github.com/megadose/holehe - check email registration on more than 120 sites
 
 https://sankalppatil12112001.medium.com/google-hacking-google-dorks-for-sensitive-information-f1d5a8eedb32 - Google Hacking: Google Dorks for Sensitive Information
 
