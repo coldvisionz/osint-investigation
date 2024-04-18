@@ -15,12 +15,15 @@ Many of these have been taken from other sources
 
 - [Telegram OSINT](#-telegram-osint)
 - [Toolkits](#-toolkits)
+- [E-mail](#-e-mail)
 - [Data Breaches](#-data-breaches)
-- [Google OSINT](#-google-osint)
+- [Password](#-passwords)
+- [Google Dorks](#-google-dorks)
 - [Social Media](#-social-media)
 - [Search Engines](#-search-engines)
 - [Misc](#-misc)
 - [Books](#-books)
+
 ## [↑](#-table-of-contents) Telegram OSINT 
 https://t.me/fvcksystem_bot - Eye of God _(been made by me actually, so i have always a mirror)_
 
@@ -61,6 +64,14 @@ https://osintframework.com/ - osint framework tree
 
 https://inventory.raw.pm/tools.html#title-tools-osint-and-reconnaissance - OSINT and Reconnaissance
 
+## [↑](#-table-of-contents) E-Mail 
+
+https://github.com/mxrch/ghunt - Google osint / collecting data about account 
+
+https://github.com/megadose/holehe - Check email registration on more than 120 sites
+
+https://emailrep.io/ - Mail verification service with some features
+
 ## [↑](#-table-of-contents) Data Breaches
 
 https://intelx.io/ - search across ip/email/domain/bitcoin address and etc.
@@ -69,11 +80,27 @@ https://www.dehashed.com - almost the same as intelx
 
 https://leakcheck.io/ - email / username pass breaches check
 
-## [↑](#-table-of-contents) Google OSINT 
+https://haveibeenpwned.com - based
 
-https://github.com/mxrch/ghunt - google osint / collecting data about account 
+https://spycloud.com.com - Database identities aren't really available to see, just using to check
+> usage https://portal.spycloud.com/endpoint/enriched-stats/test@email.com
 
-https://github.com/megadose/holehe - check email registration on more than 120 sites
+https://hudsonrock.com - Check if the email show up in someone's stealer logs
+> usage https://cavalier.hudsonrock.com/api/json/v2/preview/search-by-login/osint-tools?email=test@email.com
+
+## [↑](#-table-of-contents) Passwords
+
+https://leakpeek.com 
+
+https://breachdirectory.org/ - Gives you a password's hash
+> SHA-1 Password decryption - md5decrypt.net/en/Sha1
+
+https://psbdmp.ws/api/search/test@test.com - Monitors the entire Pastebin
+
+site:xlek.com "test@test.com"
+
+
+## [↑](#-table-of-contents) Google Dorks 
 
 https://sankalppatil12112001.medium.com/google-hacking-google-dorks-for-sensitive-information-f1d5a8eedb32 - Google Hacking: Google Dorks for Sensitive Information
 
