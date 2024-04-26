@@ -9,8 +9,6 @@ A small list of super useful many tools/services to catch bad guys that i am usi
 
 Many of these have been taken from other sources. I also recommend to read Michael Bazzell's book, it's amazing.
 
-> My Telegram: [@angel6uard](https://t.me/angel6uard)
-
 ## Table of Contents
 
 - [Telegram OSINT](#-telegram-osint)
@@ -25,7 +23,7 @@ Many of these have been taken from other sources. I also recommend to read Micha
 - [Books](#-books)
 
 ## [↑](#-table-of-contents) Telegram OSINT 
-https://t.me/fvcksystem_bot - Eye of God _(been made by me actually, so i have always a mirror)_
+https://t.me/fvcksystem_bot - Eye of God 
 
 https://t.me/osint_maigret_bot - Maigret
 
