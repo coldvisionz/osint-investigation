@@ -80,6 +80,8 @@ https://leakcheck.io/ - email / username pass breaches check
 
 https://haveibeenpwned.com - based
 
+https://osint.ly/ - an all-in-one OSINT platform where data breaches are displayed (names, databases, passwords...)
+
 https://spycloud.com.com - Database identities aren't really available to see, just using to check
 > usage https://portal.spycloud.com/endpoint/enriched-stats/test@email.com
 
@@ -135,6 +137,9 @@ https://findclone.ru/ - searching by face on social media(vk as i remember)
 https://search4faces.com - search user's profile picture on social media 
 
 https://whatsmyname.app/ - searching thru everything with a username
+
+https://osint.ly/ - an all-in-one OSINT platform, specializing in username searches.
+
 
 [EVERY Car Plate on the map](https://github.com/kfvksys/0s1nt/assets/73615575/34a16fe5-6868-4f94-a17b-1c4e9087a88b)
 
